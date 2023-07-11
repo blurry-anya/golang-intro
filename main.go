@@ -7,6 +7,8 @@ import (
 	"strings"
 )
 
+var basicScore = 5
+
 func main() {
 
 	// greet("Anya")
@@ -23,7 +25,11 @@ func main() {
 
 	// boolAndConditions()
 
-	functions()
+	// functions()
+
+	// sayHello("Anya")
+
+	mapsDemo()
 }
 
 func greet(name string) {
