@@ -1,0 +1,12 @@
+Bill breakdown:
+
+	Anya's bill
+
+Brownie:             ...$2.5
+Coffee:              ...$1.99
+Ice Cream:           ...$2.99
+Cookie:              ...$0.99
+
+Tip:                 ...$5.00
+
+Total:               ...$13.47

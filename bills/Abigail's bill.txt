@@ -1,0 +1,12 @@
+Bill breakdown:
+
+	Abigail's bill
+
+Steak:               ...$6.99
+Diet Cola:           ...$1.69
+Fries:               ...$3.99
+Barbecue Sauce:      ...$0.99
+
+Tip:                 ...$6.50
+
+Total:               ...$20.16

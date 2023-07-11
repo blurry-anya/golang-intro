@@ -31,9 +31,11 @@ func main() {
 
 	// mapsDemo() // run with maps.go
 
-	// passByValue()
+	// passByValue() // run with passByValue.go
 
-	pointers()
+	// pointers() // run with pointers.go
+
+	structsAndCustomTypes() // run with structsAndCustomTypes.go
 }
 
 func greet(name string) {
