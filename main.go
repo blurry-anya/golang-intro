@@ -35,7 +35,9 @@ func main() {
 
 	// pointers() // run with pointers.go
 
-	structsAndCustomTypes() // run with structsAndCustomTypes.go
+	// structsAndCustomTypes() // run with structsAndCustomTypes.go
+
+	interfacesDemo()
 }
 
 func greet(name string) {
