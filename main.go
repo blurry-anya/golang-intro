@@ -27,9 +27,13 @@ func main() {
 
 	// functions()
 
-	// sayHello("Anya")
+	// sayHello("Anya") // run with greetings.go
 
-	mapsDemo()
+	// mapsDemo() // run with maps.go
+
+	// passByValue()
+
+	pointers()
 }
 
 func greet(name string) {
